@@ -1,0 +1,6 @@
+time,sender,subject,risk,score,phishing_prob,legit_prob,prediction,domain_flag,keyword_flag,link_flag,ptype,conf_label,conf
+2026-04-21 08:43:51,security@bank-alerts.co,Urgent Account Verification Required,HIGH,100.0,88.54166412215979,11.45833587784021,1,1,1,1,Mass Email Phishing,HIGH,38.54
+2026-04-21 08:46:15,support@service-update.com,Account Security Notice,HIGH,74.28424376925508,64.28424376925508,35.71575623074491,1,0,1,1,Mass Email Phishing,MODERATE,14.28
+2026-04-21 08:46:27,support@service-update.com,Account Security Notice,MEDIUM,66.5228682487173,61.5228682487173,38.4771317512827,1,0,1,0,Mass Email Phishing,MODERATE,11.52
+2026-04-21 08:48:05,hr@company.com,Interview Schedule Confirmation,LOW,14.514365601114832,14.514365601114832,85.48563439888517,0,0,0,0,General Email Phishing,HIGH,35.49
+2026-04-21 12:11:44,security@bank-alerts.co,Urgent Account Verification Required,HIGH,100.0,88.54166412215979,11.45833587784021,1,1,1,1,Mass Email Phishing,HIGH,38.54
